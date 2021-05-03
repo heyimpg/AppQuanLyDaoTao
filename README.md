@@ -6,4 +6,3 @@ Contribute by:
 	+Nguyễn Văn Phương-MSV:181201962-CNTT4
 	+Trịnh Văn Hưng-MSV:181201962-CNTT4
 
-Phương vừa sửa readme.md
